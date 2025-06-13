@@ -1,2 +1,2 @@
 # Machine-learning-Projects
-Projects realted to ML techniques
+Projects related to ML techniques
